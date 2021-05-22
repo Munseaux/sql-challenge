@@ -1,2 +1,2 @@
 # sql-challenge
-sql stuff
+SQL schema and queries
